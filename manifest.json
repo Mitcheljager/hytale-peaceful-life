@@ -1,0 +1,18 @@
+{
+  "Group": "Mitsiee",
+  "Name": "A Peaceful Life",
+  "Version": "1.0.0",
+  "Description": "Additional crafting recipes and materials as peaceful alternatives to existing options, making more recipes vegan friendly.",
+  "Authors": [
+    {
+      "Name": "Mitsiee"
+    }
+  ],
+  "Website": "",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}
