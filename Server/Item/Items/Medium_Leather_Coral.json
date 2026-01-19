@@ -1,22 +1,22 @@
 {
   "TranslationProperties": {
-    "Name": "server.items.Ingredient_Leather_Light.name"
+    "Name": "server.items.Ingredient_Leather_Medium.name"
   },
-  "Icon": "Icons/ItemsGenerated/Ingredient_Leather_Light.png",
+  "Icon": "Icons/ItemsGenerated/Ingredient_Leather_Medium.png",
   "Recipe": {
     "Input": [
       {
-        "ItemId": "Plant_Flower_Common_Blue2",
-        "Quantity": 1
+        "ResourceTypeId": "Coral_Tubes",
+        "Quantity": 2
       },
       {
-        "ItemId": "Ingredient_Fibre",
+        "ItemId": "Plant_Seaweed_Grass_Stack",
         "Quantity": 4
       }
     ],
     "Output": [
       {
-        "ItemId": "Ingredient_Leather_Light",
+        "ItemId": "Ingredient_Leather_Medium",
         "Quantity": 1
       }
     ],
@@ -27,9 +27,9 @@
         "Categories": [
           "Farming"
         ],
-        "RequiredTierLevel": 2
+        "RequiredTierLevel": 4
       }
     ],
-    "TimeSeconds": 2
+    "TimeSeconds": 3
   }
 }

@@ -1,0 +1,16 @@
+{
+  "TranslationProperties": {
+    "Name": "Cacti",
+    "Description": "Any prickly cactus component, not including the pretty flowers"
+  },
+  "Quality": "Technical",
+  "Icon": "Icons/ItemsGenerated/Plant_Cactus_1.png",
+  "MaxStack": 1,
+  "Categories": [
+    "Tool.BrushFilters"
+  ],
+  "PlayerAnimationsId": "Item",
+  "BlockType": {
+    "BlockListAssetId": "Cacti"
+  }
+}

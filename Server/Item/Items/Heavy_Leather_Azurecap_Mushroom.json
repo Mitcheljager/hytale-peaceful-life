@@ -1,0 +1,35 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Ingredient_Leather_Heavy.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Ingredient_Leather_Heavy.png",
+  "Recipe": {
+    "Input": [
+      {
+        "ItemId": "Plant_Crop_Mana2",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "Plant_Flower_Orchid_Blue",
+        "Quantity": 2
+      }
+    ],
+    "Output": [
+      {
+        "ItemId": "Ingredient_Leather_Heavy",
+        "Quantity": 1
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Type": "Crafting",
+        "Id": "Farmingbench",
+        "Categories": [
+          "Farming"
+        ],
+        "RequiredTierLevel": 6
+      }
+    ],
+    "TimeSeconds": 5
+  }
+}

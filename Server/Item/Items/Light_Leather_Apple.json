@@ -6,8 +6,8 @@
   "Recipe": {
     "Input": [
       {
-        "ItemId": "Plant_Flower_Common_Blue2",
-        "Quantity": 1
+        "ItemId": "Plant_Fruit_Apple",
+        "Quantity": 4
       },
       {
         "ItemId": "Ingredient_Fibre",

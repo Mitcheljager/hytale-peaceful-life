@@ -1,0 +1,16 @@
+{
+  "TranslationProperties": {
+    "Name": "Cacti",
+    "Description": "Any branching coral tubes, all colors of the rainbow"
+  },
+  "Quality": "Technical",
+  "Icon": "Icons/ItemsGenerated/Plant_Coral_Model_Blue.png",
+  "MaxStack": 1,
+  "Categories": [
+    "Tool.BrushFilters"
+  ],
+  "PlayerAnimationsId": "Item",
+  "BlockType": {
+    "BlockListAssetId": "Cacti"
+  }
+}
