@@ -1,0 +1,16 @@
+{
+  "TranslationProperties": {
+    "Name": "Crystal Shards",
+    "Description": "Any spectrum of crystal shards"
+  },
+  "Quality": "Technical",
+  "Icon": "Icons/ItemsGenerated/Ingredient_Crystal_Blue.png",
+  "MaxStack": 1,
+  "Categories": [
+    "Tool.BrushFilters"
+  ],
+  "PlayerAnimationsId": "Item",
+  "BlockType": {
+    "BlockListAssetId": "CrystalShards"
+  }
+}

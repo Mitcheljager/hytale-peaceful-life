@@ -1,0 +1,35 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Ingredient_Chitin_Sturdy.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Ingredient_Chitin_Sturdy.png",
+  "Recipe": {
+    "Input": [
+      {
+        "ResourceTypeId": "Crystal_Shards",
+        "Quantity": 4
+      },
+      {
+        "ItemId": "Plant_Crop_Health3",
+        "Quantity": 1
+      }
+    ],
+    "Output": [
+      {
+        "ItemId": "Ingredient_Chitin_Sturdy",
+        "Quantity": 1
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Id": "Workbench",
+        "Type": "Crafting",
+        "Categories": [
+          "Workbench_Tinkering"
+        ],
+        "RequiredTierLevel": 2
+      }
+    ],
+    "TimeSeconds": 3
+  }
+}
