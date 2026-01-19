@@ -1,26 +1,26 @@
 {
   "TranslationProperties": {
-    "Name": "server.items.Ingredient_Chitin_Sturdy.name"
+    "Name": "server.items.Ingredient_Sac_Venom.name"
   },
-  "Icon": "Icons/ItemsGenerated/Ingredient_Chitin_Sturdy.png",
+  "Icon": "Icons/ItemsGenerated/Ingredient_Sac_Venom.png",
   "Recipe": {
     "Input": [
       {
-        "ResourceTypeId": "Crystal_Shards",
-        "Quantity": 4
-      },
-      {
-        "ItemId": "Plant_Crop_Health3",
+        "ItemId": "Plant_Fruit_Poison",
         "Quantity": 1
       },
       {
-        "ItemId": "Plant_Crop_Mushroom_Common_Brown",
-        "Quantity": 2
+        "ItemId": "Plant_Flower_Common_Poisoned",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "Ingredient_Tree_Sap",
+        "Quantity": 1
       }
     ],
     "Output": [
       {
-        "ItemId": "Ingredient_Chitin_Sturdy",
+        "ItemId": "Ingredient_Sac_Venom",
         "Quantity": 1
       }
     ],
@@ -36,5 +36,5 @@
     ],
     "TimeSeconds": 3
   },
-  "ItemLevel": 6
+  "ItemLevel": 5
 }

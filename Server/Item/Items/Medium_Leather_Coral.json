@@ -2,7 +2,7 @@
   "TranslationProperties": {
     "Name": "server.items.Ingredient_Leather_Medium.name"
   },
-  "Icon": "Icons/ItemsGenerated/Ingredient_Leather_Medium.png",
+  "Icon": "Icons/Items/Ingredient_Leather_Medium_Coral.png",
   "Recipe": {
     "Input": [
       {
@@ -31,5 +31,6 @@
       }
     ],
     "TimeSeconds": 3
-  }
+  },
+  "ItemLevel": 16
 }

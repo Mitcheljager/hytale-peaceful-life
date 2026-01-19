@@ -2,7 +2,7 @@
   "TranslationProperties": {
     "Name": "server.items.Ingredient_Leather_Light.name"
   },
-  "Icon": "Icons/ItemsGenerated/Ingredient_Leather_Light.png",
+  "Icon": "Icons/Items/Ingredient_Leather_Light_Aloe.png",
   "Recipe": {
     "Input": [
       {
@@ -31,5 +31,6 @@
       }
     ],
     "TimeSeconds": 2
-  }
+  },
+  "ItemLevel": 15
 }
