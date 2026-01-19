@@ -1,0 +1,33 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Ingredient_Leather_Light.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Ingredient_Leather_Light.png",
+  "Recipe": {
+    "Input": [
+      {
+        "ItemId": "Plant_Flower_Common_Blue2",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "Ingredient_Fibre",
+        "Quantity": 1
+      }
+    ],
+    "Output": [
+      {
+        "ItemId": "Ingredient_Leather_Light",
+        "Quantity": 1
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Type": "Crafting",
+        "Id": "Farmingbench",
+        "Categories": [
+          "Farming"
+        ]
+      }
+    ]
+  }
+}
