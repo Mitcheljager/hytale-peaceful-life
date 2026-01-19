@@ -12,6 +12,10 @@
       {
         "ItemId": "Plant_Crop_Health1",
         "Quantity": 2
+      },
+      {
+        "ItemId": "Plant_Crop_Health2",
+        "Quantity": 1
       }
     ],
     "Output": [

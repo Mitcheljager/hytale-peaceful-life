@@ -1,6 +1,6 @@
 {
   "TranslationProperties": {
-    "Name": "Cacti",
+    "Name": "Coral Tubes",
     "Description": "Any branching coral tubes, all colors of the rainbow"
   },
   "Quality": "Technical",
@@ -11,6 +11,6 @@
   ],
   "PlayerAnimationsId": "Item",
   "BlockType": {
-    "BlockListAssetId": "Cacti"
+    "BlockListAssetId": "CoralTubes"
   }
 }

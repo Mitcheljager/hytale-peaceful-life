@@ -12,6 +12,10 @@
       {
         "ItemId": "Plant_Flower_Orchid_Blue",
         "Quantity": 2
+      },
+      {
+        "ItemId": "Plant_Flower_Flax_Blue",
+        "Quantity": 2
       }
     ],
     "Output": [
