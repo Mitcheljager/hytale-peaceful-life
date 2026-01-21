@@ -1,0 +1,18 @@
+{
+  "Group": "Mitsiee",
+  "Name": "Friendly Faces",
+  "Version": "1.0.0",
+  "Description": "Subtly adjusts the models and textures of some animals to make them appear a little more friendly",
+  "Authors": [
+    {
+      "Name": "Mitsiee"
+    }
+  ],
+  "Website": "",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}
