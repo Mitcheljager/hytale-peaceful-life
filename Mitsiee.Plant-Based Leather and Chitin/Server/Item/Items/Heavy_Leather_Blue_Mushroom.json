@@ -6,16 +6,16 @@
   "Recipe": {
     "Input": [
       {
-        "ItemId": "Plant_Crop_Mana2",
+        "ItemId": "Plant_Flower_Tall_Cyan2",
         "Quantity": 1
       },
       {
         "ItemId": "Plant_Flower_Orchid_Blue",
-        "Quantity": 2
+        "Quantity": 1
       },
       {
-        "ItemId": "Plant_Flower_Flax_Blue",
-        "Quantity": 2
+        "ItemId": "Plant_Crop_Mushroom_Common_Blue",
+        "Quantity": 4
       }
     ],
     "Output": [
