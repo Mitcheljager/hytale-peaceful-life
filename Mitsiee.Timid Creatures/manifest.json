@@ -1,0 +1,18 @@
+{
+  "Group": "Mitsiee",
+  "Name": "Timid Creatures",
+  "Version": "1.0.0",
+  "Description": "All creatures will act more timid, prefering to run away instead of fighting you unless provoked.",
+  "Authors": [
+    {
+      "Name": "Mitsiee"
+    }
+  ],
+  "Website": "",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}
