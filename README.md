@@ -1,2 +1,2 @@
 # Hytale - A Peaceful Life Mod
-A mod for Hytale adding additional crafting recipes and materials as peaceful alternatives to existing options
+A series of mods for Hytale adding all sorts of little things that make the game more peaceful
