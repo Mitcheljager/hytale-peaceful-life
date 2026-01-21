@@ -7,14 +7,14 @@
     "Input": [
       {
         "ItemId": "Plant_Crop_Mushroom_Cap_Poison",
-        "Quantity": 2
+        "Quantity": 1
       },
       {
         "ItemId": "Plant_Flower_Common_White",
         "Quantity": 2
       },
       {
-        "ItemId": "Plant_Flower_Flax_Pink",
+        "ItemId": "Plant_Crop_Mushroom_Cap_White",
         "Quantity": 1
       }
     ],
@@ -34,7 +34,7 @@
         "RequiredTierLevel": 6
       }
     ],
-    "TimeSeconds": 5
+    "TimeSeconds": 3
   },
   "ItemLevel": 17
 }
